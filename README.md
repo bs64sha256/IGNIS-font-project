@@ -4,6 +4,8 @@ just a pixel font that I made using FontStruct
   <img  src="Снимок экрана 2025-04-26 121000.png" width=100%>
   <img  src="Снимок экрана 2025-04-26 121011.png" width=49%>
   <img  src="Снимок экрана 2025-04-26 121043.png" width=49%>
+  FULL VERSION
+  <img  src="Снимок экрана 2025-04-26 141650.png" width=100%>
 </div>
 
 # INSTRUCTION
